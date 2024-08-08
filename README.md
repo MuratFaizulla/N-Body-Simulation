@@ -16,4 +16,4 @@ To execute your program from the command line, redirecting from the file planets
 After the animation stops, your program must output the final state of the universe in the same format as the input.
 
 ●	Run your program on another input file, such as kaleidoscope.txt - produces this animation.
-java-introcs NBody 157788000.0 25000.0 < kaleidoscope.txt
+>java-introcs NBody 157788000.0 25000.0 < kaleidoscope.txt
